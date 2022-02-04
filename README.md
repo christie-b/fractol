@@ -1,5 +1,7 @@
 # fractol
 
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cboutier/fract-ol)](https://github.com/JaeSeoKim/badge42)
+
 Validated on July 23rd, 2021
 
 125/100 with bonuses
