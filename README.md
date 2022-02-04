@@ -4,7 +4,8 @@ Validated on July 23rd, 2021
 
 125/100 with bonuses
 
-This project is about creating fractals with 42 minilibx (graphic library)
+This project is about creating fractals with 42 minilibx (graphic library).
+This project is only working on Linux.
 
 Usage:  
 ./fractol fractal_set [param 1] [param 2]  
