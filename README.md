@@ -6,13 +6,13 @@ Validated on July 23rd, 2021
 
 125/100 with bonuses
 
-This project is about creating fractals with 42 minilibx (graphic library).
-This project is only working on Linux.
+This project is about creating fractals using complex numbers, with the help of the 42 Minilibx (graphic library).
+This project is **ONLY** working on Linux.
 
-Usage:  
-./fractol fractal_set [param 1] [param 2]  
-fractal sets are julia, mandelbrot and burning  
-Params are only for the Julia set (Cx and Cy).
+** HOW TO USE THE PROGRAM**  
+`./fractol fractal_set [param 1] [param 2]`  
+fractal sets are `julia`, `mandelbrot` and `burning`  
+Parameters are only for the Julia set (Cx and Cy).
 
 Bonuses implemented: 
 - Additional fractal (Burning Ship)  
