@@ -12,7 +12,8 @@ This project is **ONLY** working on Linux.
 ** HOW TO USE THE PROGRAM**  
 `./fractol fractal_set [param 1] [param 2]`  
 fractal sets are `julia`, `mandelbrot` and `burning`  
-Parameters are only for the Julia set (Cx and Cy).
+Parameters are only for the Julia set (Cx and Cy).  
+You can exit the program using the `ESC key` or clicking on the red arrow.  
 
 Bonuses implemented: 
 - Additional fractal (Burning Ship)  
