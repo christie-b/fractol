@@ -19,7 +19,10 @@ Bonuses implemented:
 - Additional fractal (Burning Ship)  
 - Zoom that follows the mouse direction  
 - Moving the view by pressing the arrow keys  
-- Make the color range shift (with the key P)
-![fractol_mandelbrot](https://user-images.githubusercontent.com/63601807/197042979-d16def2b-6bfb-4b97-a6c9-15dd9f00ce5a.png)
-![fractol](https://user-images.githubusercontent.com/63601807/197043003-05d83070-9923-4faa-9a8b-1743c14ccef5.png)
+- Make the color range shift (with the key P)  
+
+![fractol_mandelbrot](https://user-images.githubusercontent.com/63601807/197042979-d16def2b-6bfb-4b97-a6c9-15dd9f00ce5a.png)  
+
+![fractol](https://user-images.githubusercontent.com/63601807/197043003-05d83070-9923-4faa-9a8b-1743c14ccef5.png)  
+
 ![fractol_zoom](https://user-images.githubusercontent.com/63601807/197043031-555f52fa-39c9-4284-8108-d962c365d237.png)
